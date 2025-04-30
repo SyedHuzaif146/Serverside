@@ -1,6 +1,6 @@
 # Ex.05 Design a Website for Server Side Processing
-# NAME= SYED HUZAIF
-# REG NO= 212224240166
+## Name:SYED HUZAIF
+## Register number:212224240166
 
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
@@ -39,8 +39,8 @@ Publish the website in the given URL.
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>SURFACE AREA OF RIGHT CYLINDER</title>
-<h2 align="center">STEPHEN RAJ Y</h2>
-<h3 align="center">212223230217</h3>
+<h2 align="center">EZHIL NEVEDHA K</h2>
+<h3 align="center">212223230055</h3>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body {
@@ -97,17 +97,16 @@ h1 {
 </div>
 </body>
 </html>
-
-
-
 ```
 
-
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2025-04-23 111018.png>)
+![image](https://github.com/user-attachments/assets/438f2cd6-ed5f-4327-99f3-84228f4bec0f)
+![image](https://github.com/user-attachments/assets/eda6bae5-8a85-4768-8cf6-43cb14d9b6c6)
+
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2025-04-23 110951.png>)
+![image](https://github.com/user-attachments/assets/94bedac4-be1f-42b7-a24c-3ce5b844c0a6)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
